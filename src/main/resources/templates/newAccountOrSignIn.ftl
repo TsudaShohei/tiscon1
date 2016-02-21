@@ -3,16 +3,15 @@
 
 <@layout.layout "Register">
             <div class="container">
-
                 <div class="col-md-12">
-
                     <ul class="breadcrumb">
                         <li><a href="/">Home</a>
                         </li>
-                        <li>New account / Sign in</li>
+                        <li>New account</li>
                     </ul>
 
                 </div>
+
 
                 <div class="col-md-6">
                     <div class="box">
@@ -59,6 +58,7 @@
                     </div>
                 </div>
 
+<!--
                 <div class="col-md-6">
                     <div class="box">
                         <h1>Login</h1>
@@ -84,7 +84,7 @@
                         </form>
                     </div>
                 </div>
-
+-->
 
             </div>
             <!-- /.container -->
